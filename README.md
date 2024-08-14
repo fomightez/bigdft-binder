@@ -1,31 +1,17 @@
-# Conda environment with environment.yml
+You probably looking for https://github.com/BigDFT-group/bigdft-school or https://gitlab.com/luigigenovese/bigdft-school/
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/conda_environment/HEAD?filepath=index.ipynb)
+# bigdft-binder
 
-A Binder-compatible repo with an `environment.yml` file.
+*tl;dr:*  
+Click any '`launch`' badge on this page to run BigDFT code inside your browser without installing anything on your own machine. Or using Colab
 
-Access this Binder by clicking the blue badge above or at the following URL:
+JupyterLab:  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/bigdft-binder/main)
 
-http://mybinder.org/v2/gh/binder-examples/conda_environment/HEAD?filepath=index.ipynb
 
-## Notes
-The `environment.yml` file should list all Python libraries on which your notebooks
-depend, specified as though they were created using the following `conda` commands:
 
-```
-conda activate example-environment
-conda env export --from-history -f environment.yml
-```
+---------------
+Attribution
+----------
+This repo was set up to take advantage of the Binder system to offer a resource to run BigDFT related code.
 
-Note that the only libraries available to you will be the ones specified in
-the `environment.yml`, so be sure to include everything that you need! 
-
-Also note that if you skip the `--from-history`, conda may include OS-specific
-packages in `environment.yml`, which you would have to manually prune from
-`environment.yml`.  For example, confirmed macOS-specific packages that should
-be removed are:
-
-* libcxxabi=4.0.1
-* appnope=0.1.0
-* libgfortran=3.0.1
-* libcxx=4.0.1
+You actually want https://github.com/BigDFT-group/bigdft-school or https://gitlab.com/luigigenovese/bigdft-school/ if you are interested.
