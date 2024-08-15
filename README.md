@@ -3,9 +3,10 @@ You probably looking for https://github.com/BigDFT-group/bigdft-school or https:
 # bigdft-binder
 
 *tl;dr:*  
-Click any '`launch`' badge on this page to run BigDFT code inside your browser without installing anything on your own machine. Or without using Colab.
+Click any '`launch`' badge on this page to run BigDFT code inside your browser without installing anything on your own machine. Or without using Colab, see [the StackOverflow post 'Code for Google Colab will not transfer over to Jupyter Notebook'](https://stackoverflow.com/a/78868235/8508004).
 
-JupyterLab:  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/bigdft-binder/main)
+JupyterLab:    
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/bigdft-binder/main)
 
 
 
