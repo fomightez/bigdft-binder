@@ -6,3 +6,4 @@ dependencies:
   - matplotlib
   - git-lfs
   - bigdft-suite
+  - swi-prolog
