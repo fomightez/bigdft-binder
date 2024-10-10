@@ -1,4 +1,4 @@
-You probably looking for https://github.com/BigDFT-group/bigdft-school or https://gitlab.com/luigigenovese/bigdft-school/
+You are probably looking for https://github.com/BigDFT-group/bigdft-school or https://gitlab.com/luigigenovese/bigdft-school/
 
 # bigdft-binder
 
